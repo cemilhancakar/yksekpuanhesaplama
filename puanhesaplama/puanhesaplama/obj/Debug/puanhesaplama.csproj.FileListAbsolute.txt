@@ -1,0 +1,7 @@
+c:\users\cemil\source\repos\puanhesaplama\puanhesaplama\bin\Debug\puanhesaplama.exe.config
+c:\users\cemil\source\repos\puanhesaplama\puanhesaplama\bin\Debug\puanhesaplama.exe
+c:\users\cemil\source\repos\puanhesaplama\puanhesaplama\bin\Debug\puanhesaplama.pdb
+c:\users\cemil\source\repos\puanhesaplama\puanhesaplama\obj\Debug\puanhesaplama.csprojAssemblyReference.cache
+c:\users\cemil\source\repos\puanhesaplama\puanhesaplama\obj\Debug\puanhesaplama.csproj.CoreCompileInputs.cache
+c:\users\cemil\source\repos\puanhesaplama\puanhesaplama\obj\Debug\puanhesaplama.exe
+c:\users\cemil\source\repos\puanhesaplama\puanhesaplama\obj\Debug\puanhesaplama.pdb
